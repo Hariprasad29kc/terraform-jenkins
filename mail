@@ -1,0 +1,71 @@
+Hello Hari,
+
+Thank you for contacting Azure Subscription and Billing Management Support.
+
+My name is Angitha. I am the Support Professional who will be working with you on this Service Request. You may reach me using the contact information listed below, referencing the SR number 2401100030005501.
+
+I noticed you selected email as your preferred contact. However, we could resolve this case faster if we do a quick call to gather all the information needed and troubleshoot the issue further.
+ 
+Please let me know a preferred time for a call, or if you prefer to continue by email. Feel free to request a call at any time during the progress of this case. For now, we will continue by email.
+
+I understand that you have queries related to charges of your subscription and you would like to have assistance regarding the same.
+
+I did review the details and see that you have a subscription (c56a7fac-9fca-4d5f-a212-688a690c4f7e) and there are a pending charges of 12584.69 INR under your account.
+
+We can see that our system trying to charge from your card, and it is declining from financial institution.
+
+Please note that your free trial (9/27/2023 - 10/27/2023) subscription expired and upgraded to Pay-As-You-Go on 10/27/2023. Hence you got billed for the usage of services. Free Trial is valid for 30 days or until the free credits are utilized.
+
+Below are the pending invoices under your account: 
+Invoice	Amount
+E0400PTQSM	0.21 INR
+E0400Q7P3I	12,584.48 INR
+
+Please find the snip of the filtered usage report of the billing period 11/27/2023 ~ 12/26/2023:
+  
+Row Labels	Sum of Consumed Quantity	Sum of Pre-Tax Charges	Sum of Post-Tax Total
+Azure Data Factory v2	0.00048	0.02	0.02
+Bandwidth	0.01247869	0.03	0.03
+Storage	2.306499	1468.21	1732.48
+Premium SSD Managed Disks	0.948432	1468.09	1732.35
+P10 LRS Disk	0.948432	1468.09	1732.35
+Tables	1.321067	0.11	0.12
+Tiered Block Blob	0.037	0.01	0.01
+Virtual Machines	585.550031	8644.62	10200.66
+Dv3/DSv3 Series	0.100002	0.75	0.89
+D2 v3/D2s v3	0.100002	0.75	0.89
+Dv3/DSv3 Series Windows	585.450029	8643.87	10199.77
+D2 v3/D2s v3	585.450029	8643.87	10199.77
+Virtual Network	1405.603333	551.94	651.29
+IP Addresses	1405.603333	551.94	651.29
+Standard IPv4 Static Public IP	1405.603333	551.94	651.29
+Grand Total	1993.472822	10664.82	12584.48
+
+Below you can see the current billing cycle usage:
+  
+Row Labels	Sum of Pre-Tax Charges	Sum of Post-Tax Total
+Azure Data Factory v2	0.01	0.01
+Bandwidth	0.014065841	0.014065841
+Storage	366.1803841	432.0903841
+Virtual Machines	2628.08	3101.13
+Virtual Network	139.78	164.94
+Grand Total	3134.06445	3698.18445
+
+
+As we reviewed the usage, we can see that most of the charges are for Virtual machine usage. As you can see in the snip, you have been charged for the above service and you have been charged as per the pricing.
+
+For the current month usage, the invoice is not yet generated.
+
+I can see that you have cancelled the services on 1/3/24. However, the services were running till the date, and you got charges.
+
+Please note all credit/refund request are subjected for review and approval from our Senior Management Team. 
+
+Microsoft does not scan or monitor customers Azure deployments, virtual machines (VMs), networks, or data transfers for security and privacy. The customer is responsible for monitoring Azure usage.
+
+Please note that we cannot adjust the entire charges which got generated. However, we will check with our technical advisor regarding the possibilities for adjusting charges for Dv3/DSv3 Series Windows. Please note we cannot promise any credits for this scenario now.
+
+Kindly let us know how you would like to proceed further.
+
+Best Regards,
+
+Angitha PP
